@@ -23,6 +23,8 @@ Stack.prototype.pop = function () {
   return this.array.pop();
 };
 
+Stack.prototype.getNthNode
+
 let stack = new Stack();
 stack.push(10);
 stack.push(20);
